@@ -1,6 +1,6 @@
-# api-rest-golang-mysql
+# app-golang-mysql
 
-## This is a simple rest-api using golang and mysql in order to learn how to integrate them.
+## This is a simple application using golang and mysql in order to learn how to integrate them.
 
 - The application provides a view made in .tmpl. These archives provides an HTML view for creating, updating, deleting and showing all the employees.
 
